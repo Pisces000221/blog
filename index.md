@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-tagline: Popular Posts 
+tagline: ' '  
 group: navigation
 position: 1
 ---
