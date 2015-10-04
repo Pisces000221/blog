@@ -7,13 +7,13 @@ shortContent: "The Protection and Restitution of Cultural Artefacts to its Origi
 ---
 {% include JB/setup %}
 
-#####Position Paper
-#####Committee: ECOSOC
-#####Delegate: Patrick Wu Daiqi
-#####Country: The United Kingdom of Great Britain and Northern Ireland
-#####School: No.2 High School of Eastern China Normal University
-#####Topic: The Protection and Return of Cultural Artefacts to their Countries of Origin
-#####October 4, 2015
+##### Position Paper
+##### Committee: ECOSOC
+##### Delegate: Patrick Wu Daiqi
+##### Country: The United Kingdom of Great Britain and Northern Ireland
+##### School: No.2 High School of Eastern China Normal University
+##### Topic: The Protection and Return of Cultural Artefacts to their Countries of Origin
+##### October 4, 2015
 
 The Protection and Restitution of Cultural Artefacts to its Original Countries has long been a hot spot issue in various committee conferences of United Nations. Thereby, subsidiary bodies, organisations and committees have been established by the General Assembly in corporation with the ECOSOC to further supervise and formulate regulations. In accordance with the latest up-to-date documents submitted on the 19th session of the ICPRCP Committee[1], contributions on all fields of this issue including the promotion of bilateral negotiations, preparation of documents and resources, establishment of UNESCO Database of National Cultural Heritage Laws as well as subsidiary actions of capacity building and awareness raising. 
 United Kingdom(abbr. U.K. ), as an active member state of ECOSOC and UNESCO, has been paying increasing attention the issue of restitution and protection of cultural artefacts. Since United Kingdom has been playing an active role in the development of the World Heritage Fund subsidiary to the UNESCO[2], the U.K. calls upon all countries to act under the  guidance of ICPRCP and UNIDROIT resolutions especially the Convention on the Means of Prohibiting and Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property 1970[3] to further establish an all-round protection regulations and system to further ensure the long-term perseverance of cultural antiquities under the direct supervision of UNESCO.
