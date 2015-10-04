@@ -9,17 +9,17 @@ shortContent: "The Protection and Restitution of Cultural Artefacts to its Origi
 
 ##### Position Paper
 
-##### Committee: ECOSOC
+####### Committee: ECOSOC
 
-##### Delegate: Patrick Wu Daiqi
+####### Delegate: Patrick Wu Daiqi
 
-##### Country: The United Kingdom of Great Britain and Northern Ireland
+####### Country: The United Kingdom of Great Britain and Northern Ireland
 
-##### School: No.2 High School of Eastern China Normal University
+####### School: No.2 High School of Eastern China Normal University
 
-##### Topic: The Protection and Return of Cultural Artefacts to their Countries of Origin
+####### Topic: The Protection and Return of Cultural Artefacts to their Countries of Origin
 
-##### October 4, 2015
+####### October 4, 2015
 
 
 The Protection and Restitution of Cultural Artefacts to its Original Countries has long been a hot spot issue in various committee conferences of United Nations. Thereby, subsidiary bodies, organisations and committees have been established by the General Assembly in corporation with the ECOSOC to further supervise and formulate regulations. In accordance with the latest up-to-date documents submitted on the 19th session of the ICPRCP Committee[1], contributions on all fields of this issue including the promotion of bilateral negotiations, preparation of documents and resources, establishment of UNESCO Database of National Cultural Heritage Laws as well as subsidiary actions of capacity building and awareness raising. 
@@ -42,7 +42,8 @@ United Kingdom believes that the holy duty of protecting and reinstitution the c
 
 
 
-Reference
+####### Reference
+
 [1] Intergovernmental Committee For Promoting the Return of Cultural Property to its Countries of Origin or its Restitution in case of Illicit Appropriation (19th Session UNESCO Headquarters, 1-2 October 2014)
 
 [2] The World Heritage Fund Statement of Compulsory Contributions (31 May 2015).
@@ -59,7 +60,7 @@ Reference
 
 
 
-Related Links
+####### Related Links
 
 http://whc.unesco.org/en/world-heritage-fund/
 
