@@ -10,7 +10,7 @@ position: 1
 {% if site.posts %}
 {% assign posts = site.posts %}
 {% for post in posts limit:5 %}
-<div class="card-panel blue lighten-5 z-depth-1">
+<div class="card-panel grey lighten-2 z-depth-1">
     <h5>
         <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
     </h5>
@@ -19,7 +19,7 @@ position: 1
     </p>
     <hr>
     <p>{{ post.shortContent }}......</p>
-    <a class="btn waves-effect waves-light light-blue darken-2" href="{{ BASE_PATH }}{{ post.url }}">
+    <a class="btn waves-effect waves-light blue darken-2" href="{{ BASE_PATH }}{{ post.url }}">
         <span lang="READ_MORE_BTN"></span> <i class="mdi-content-send right"></i>
     </a>
 
