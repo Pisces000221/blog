@@ -9,10 +9,10 @@ shortContent: "The Protection and Restitution of Cultural Artefacts to its Origi
 
 ##### Position Paper
 
-####### Committee: ECOSOC
+###### Committee: ECOSOC
 
-####### Delegate: Patrick Wu Daiqi
+###### Delegate: Patrick Wu Daiqi
 
-####### Country: The United Kingdom of Great Britain and Northern Ireland
+###### Country: The United Kingdom of Great Britain and Northern Ireland
 
 [PDF Here](https://github.com/magetron/pdf/blob/gh-pages/%5BECOSOC%5DUK.Position.Paper.pdf)
