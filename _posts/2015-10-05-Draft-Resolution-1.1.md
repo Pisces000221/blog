@@ -15,4 +15,4 @@ shortContent: "Draft Resolution 1.1"
 
 ###### Sponsors:
 
-[PDF Here NOT READY YET](https://github.com/magetron/pdf/blob/gh-pages/%5BECOSOC%5DUK.Position.Paper.pdf)
+[PDF Here NOT READY YET](https://github.com/magetron/pdf/blob/master/%5BECOSOC%5DDraft.Resolution.1.1.Alpha.pdf)
