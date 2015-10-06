@@ -15,4 +15,4 @@ shortContent: "The Protection and Restitution of Cultural Artefacts to its Origi
 
 ###### Country: The United Kingdom of Great Britain and Northern Ireland
 
-[PDF Here](https://github.com/magetron/pdf/blob/gh-pages/%5BECOSOC%5DUK.Position.Paper.pdf)
+[PDF Here](https://raw.githubusercontent.com/magetron/pdf/master/%5BECOSOC%5DUK.Position.Paper.pdf)
