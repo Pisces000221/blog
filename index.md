@@ -29,7 +29,7 @@ position: 1
 {% assign len = site.posts | size %}
 {% if len > 5 %}
   {% assign archive = site.pages | where:"title","Archive" %}
-  <a class="waves-effect waves-light btn right orange darken-4" href="{{ archive[0].url }}"><i class="mdi-image-style right"></i><span lang="MORE_INFO"></span></a>
+  <a class="waves-effect waves-light btn right orange darken-4" href="{{BASE_PATH}}{{ archive[0].url }}"><i class="mdi-image-style right"></i><span lang="MORE_INFO"></span></a>
   {% assign archive = nil %}
 {% endif %}
 {% assign len = nil %}
