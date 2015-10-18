@@ -13,7 +13,7 @@ All sorts of codes that prints "Hello World!"
 
 {% highlight bash %}
 
-echo "Hello World!"
+echo "Hello World! "
 
 {% endhighlight %}
 
