@@ -2,7 +2,7 @@
 
 This is my Blog Site!
 
-###Credits:
+### Credits:
 
 Jekyll
 
