@@ -3,7 +3,7 @@ layout: post
 category : Work
 tagline: ""
 tags : [Model UN]
-shortContent: "MUNUC CSW"
+shortContent: "MUNUC XXVIII CSW"
 ---
 {% include JB/setup %}
 
